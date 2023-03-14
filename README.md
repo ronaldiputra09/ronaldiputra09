@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 <div>
 ![Ronal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldiputra09&show_icons=true&theme=transparent)
-
+</div>
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldiputra09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
