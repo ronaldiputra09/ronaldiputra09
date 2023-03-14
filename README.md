@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/ronaldiputra09/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="40" height="40"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.instagram.com/ronaldiputra09/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/instagram/instagram-original.svg" title="instagram" alt="instagram" width="40" height="40"/>
   </a>
 </div>
