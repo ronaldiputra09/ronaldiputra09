@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ronaldiputra09&theme=dark&locale=id&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<hr></hr>
+
 ![Ronaldi Putra GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldiputra09&show_icons=true)
