@@ -41,6 +41,6 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.instagram.com/ronaldiputra09/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/instagram/instagram-original.svg" title="instagram" alt="instagram" width="40" height="40"/>
+    <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" title="instagram" alt="instagram" width="40" height="40"/>
   </a>&nbsp;
 </div>
