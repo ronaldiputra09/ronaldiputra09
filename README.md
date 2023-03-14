@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ronaldiputra09&theme=dark&locale=id&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <hr> -->
-![Ronaldi Putra GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldiputra09&hide=contribs,prs)
+![Ronaldi Putra GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldiputra09&show_icons=true)
+<!-- ![Lumberjack Programmer github stats](https://github-readme-stats.vercel.app/api?username=lumberjack-programmer&show_icons=true&hide_border=true) -->
