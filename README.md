@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-![Ronal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldiputra09&show_icons=true&theme=transparent)
-</div>
-<div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldiputra09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true](https://github-readme-stats.vercel.app/api?username=ronaldiputra09&show_icons=true&theme=transparent)" alt="Ronal's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldiputra09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)" /></a> |
+| ------------- | ------------- |
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
