@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### 🇮🇩: Follow me @ronaldiputra09 :
+### 🇮🇩 Follow me @ronaldiputra09 :
 <div id="badges">
   <a href="https://www.linkedin.com/in/ronaldiputra09/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="40" height="40"/>
