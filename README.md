@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=ronaldiputra09&theme=dark&locale=id&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Ronaldi Putra GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldiputra09&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldiputra09)](https://github.com/anuraghazra/github-readme-stats)
