@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ronaldiputra09&theme=dark&locale=id&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<hr>
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ronaldiputra09&theme=dark&locale=id&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<hr> -->
 ![Ronaldi Putra GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldiputra09&hide=contribs,prs)
