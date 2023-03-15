@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ronaldiputra09&show_icons=true&theme=transparent" alt="Ronal's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldiputra09&layout=compact&theme=vision-friendly-dark" /></a> |
 | ------------- | ------------- |
-</p>
 <hr>
 
 ### ℹ️ About Me :
