@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center"><a href="[https://anuraghazra.github.io](https://www.linkedin.com/in/ronaldiputra09/)"> HELLO! I'm Ronal</a></p>
+
+<br />
+
+I'm a Flutter Developer, Web Developer and UI/UX Designer 🇮🇩
 
 <!--
 **ronaldiputra09/ronaldiputra09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**About me**
+### ℹ️ About Me :
 
 - 💼 Flutter Developer at [Diskominfo Ogan Ilir](https://oganilirkab.go.id/)
 
