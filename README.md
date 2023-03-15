@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**About me**
+
+- 💼 Flutter Developer at [Diskominfo Ogan Ilir](https://oganilirkab.go.id/)
+
+- 💬 Ask me about Flutter or Laravel [Click here](https://www.linkedin.com/in/ronaldiputra09/)
+
+- 👨‍🎓 Management degree at [University PGRI Palembang](https://univpgri-palembang.ac.id/)
+
+<hr>
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ronaldiputra09&show_icons=true&theme=transparent" alt="Ronal's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldiputra09&layout=compact&theme=vision-friendly-dark" /></a> |
 | ------------- | ------------- |
 
