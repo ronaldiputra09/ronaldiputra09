@@ -1,8 +1,5 @@
 <p align="center"><a href="[https://anuraghazra.github.io](https://www.linkedin.com/in/ronaldiputra09/)"><img width="80%" alt="welcome" src="./welcome.png" /></a></p>
-
-<br />
-
-I'm a Flutter Developer, Web Developer and UI/UX Designer 🇮🇩
+<p align="center">I'm a Flutter Developer, Web Developer and UI/UX Designer 🇮🇩</p>
 
 <!--
 **ronaldiputra09/ronaldiputra09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
