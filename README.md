@@ -41,18 +41,3 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
 </div>
-
-<hr>
-
-### 🇮🇩 Follow me @ronaldiputra09 :
-<div id="badges">
-  <a href="https://www.linkedin.com/in/ronaldiputra09/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.facebook.com/ronaldiputra09/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.instagram.com/ronaldiputra09/">
-    <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" title="instagram" alt="instagram" width="40" height="40"/>
-  </a>&nbsp;
-</div>
