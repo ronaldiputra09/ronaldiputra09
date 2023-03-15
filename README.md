@@ -1,4 +1,4 @@
-<p align="center"><a href="[https://anuraghazra.github.io](https://www.linkedin.com/in/ronaldiputra09/)"> HELLO! I'm Ronal</a></p>
+<p align="center"><a href="[https://anuraghazra.github.io](https://www.linkedin.com/in/ronaldiputra09/)">WELCOME TO MY PROFILE</a></p>
 
 <br />
 
