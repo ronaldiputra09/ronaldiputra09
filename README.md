@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Languages and Tools :
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,figma,vscode,github&theme=dark,laravel,php,bootstrap,js" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,figma,vscode,laravel,php,bootstrap,js" />
   </a>
