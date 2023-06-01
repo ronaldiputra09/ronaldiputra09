@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Languages and Tools :
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,figma,vscode,androidstudio,git,github&theme=dark,laravel,php,bootstrap,js" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,figma,vscode,androidstudio,git,github&theme=dark" />
   </a>
   
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,figma,vscode,androidstudio,git,github&theme=dark,laravel,php,bootstrap,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,bootstrap,js)](https://skillicons.dev)
