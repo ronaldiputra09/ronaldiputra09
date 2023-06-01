@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 <a href="#">
     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,figma,vscode,androidstudio,git,github&theme=dark,laravel,php,bootstrap,js" />
   </a>
+  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
